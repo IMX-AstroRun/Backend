@@ -46,13 +46,13 @@ const mintme = async (wallet_address: string, tokenID:string) => {
 
 app.get('/', (req: Request, res: Response) => {
 
-    res.send("Hello");
+    res.send("This Server is LIVE");
 
 })
 
 app.post('', (req: Request, res: Response) => {
 
-    res.send("Hello");
+    res.send("POST REQUEST WORKING");
 
 })
 
