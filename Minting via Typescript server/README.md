@@ -7,4 +7,4 @@
 
 - POST request at endpoinit:"/mint" with json file containing reciever public key and tokenID.
 
-** Have fun minting! **
+__Have fun minting__
