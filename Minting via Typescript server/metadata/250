@@ -1,0 +1,9 @@
+{
+  "name": "Terry",
+  "description": "Spacy Terry",
+  "image_url":"https://bafkreicuhel4ojxdd3hivi73lkh7vhe4rdwfasqkutufnwk2tbvhqtsrpu.ipfs.nftstorage.link",
+  "image":"https://bafkreicuhel4ojxdd3hivi73lkh7vhe4rdwfasqkutufnwk2tbvhqtsrpu.ipfs.nftstorage.link",
+  "attack": 123,
+  "collectable": true,
+  "class": "EnumValue1"   
+}

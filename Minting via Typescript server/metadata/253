@@ -1,0 +1,9 @@
+{
+  "name": "Nine",
+  "description": "Space cat who has only 2 lives left.",
+  "image_url":"https://bafybeicbtcditdzwr6zzc5ifes2taqii5t4jl2i4kmh3zgt4dq33fc3r4i.ipfs.nftstorage.link",
+  "image":"https://bafybeicbtcditdzwr6zzc5ifes2taqii5t4jl2i4kmh3zgt4dq33fc3r4i.ipfs.nftstorage.link",
+  "attack": 23,
+  "collectable": true,
+  "class": "EnumValue1"   
+}

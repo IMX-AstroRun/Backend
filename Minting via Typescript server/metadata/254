@@ -1,0 +1,9 @@
+{
+  "name": "KFC",
+  "description": "Free range farm escapee.",
+  "image_url":"https://bafybeihgw2bc5kycgz3zd45z3l4anx243xoixqw7qjfkghbcr3m5fsf2lq.ipfs.nftstorage.link",
+  "image":"https://bafybeihgw2bc5kycgz3zd45z3l4anx243xoixqw7qjfkghbcr3m5fsf2lq.ipfs.nftstorage.link",
+  "attack": 323,
+  "collectable": true,
+  "class": "EnumValue1"   
+}

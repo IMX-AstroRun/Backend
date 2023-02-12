@@ -1,0 +1,9 @@
+{
+  "name": "Rocky",
+  "description": "Dogo in space",
+  "image_url":"https://bafybeifsq3fobn2fnv67wslfb5tgaixwsbemtkoj5gndvz7fo5i2zyztwa.ipfs.nftstorage.link",
+  "image":"https://bafybeifsq3fobn2fnv67wslfb5tgaixwsbemtkoj5gndvz7fo5i2zyztwa.ipfs.nftstorage.link",
+  "attack": 323,
+  "collectable": true,
+  "class": "EnumValue1"   
+}

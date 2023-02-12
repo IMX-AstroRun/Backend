@@ -1,0 +1,9 @@
+{
+  "name": "Simba",
+  "description": "Character of Simba",
+  "image_url":"https://bafybeiap6la4d75efpzyoahhshvus3jntqa6yo6y6dgiexugb6aydoiesi.ipfs.nftstorage.link",
+  "image":"https://bafybeiap6la4d75efpzyoahhshvus3jntqa6yo6y6dgiexugb6aydoiesi.ipfs.nftstorage.link",
+  "attack": 223,
+  "collectable": true,
+  "class": "EnumValue1"   
+}
